@@ -1,0 +1,10 @@
+/venv
+.env
+env
+.venv
+*venv
+*env
+**/test.py
+.idea
+**/.idea
+.secret
